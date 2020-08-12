@@ -17,6 +17,9 @@ h1, h2, h3, h4, h5, h6{
 }
 
 
+.page{
+		overflow: hidden;
+	}
 
 
  	/* Container */
@@ -927,8 +930,13 @@ h1, h2, h3, h4, h5, h6{
 	}
 
 	.footer__item{
-		width: 50%;
-		margin-bottom: 15px;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+
+
+	.section--34{
+		padding-bottom: 60px;
 	}
 
 
@@ -953,6 +961,10 @@ h1, h2, h3, h4, h5, h6{
 
 	.reviews__text{
 		padding: 0;
+	}
+
+	.section--34{
+		padding-bottom: 40px;
 	}
 
 
